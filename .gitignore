@@ -1,4 +1,26 @@
+# Dependencies
 node_modules/
+
+# Build output
+dist/
+.astro/
+
+# Environment variables
+.env
+.env.production
+
+# Vercel
 .vercel
+
+# OS files
 .DS_Store
 *.log
+
+# Editor directories
+.vscode/
+.idea/
+
+# Old static files (can be removed after migration)
+# index.html
+# flat-roofing-services-northern-indiana.html
+# styles.css
