@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/flat-roofing-services-northern-indiana.html"
+    }
+  ]
+}
